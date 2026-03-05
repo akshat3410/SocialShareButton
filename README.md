@@ -73,34 +73,6 @@ Lightweight social sharing component for web applications. Zero dependencies, fr
 
 ## Installation
 
-## Basic HTML Usage (Vanilla JS)
-
-If you are using plain HTML, you can quickly integrate the Social Share Button without any framework.
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Social Share Button Demo</title>
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/gh/AOSSIE-Org/SocialShareButton@v1.0.3/src/social-share-button.css"
-    />
-  </head>
-  <body>
-    <div id="share-button"></div>
-
-    <script src="https://cdn.jsdelivr.net/gh/AOSSIE-Org/SocialShareButton@v1.0.3/src/social-share-button.js"></script>
-    <script>
-      new window.SocialShareButton({
-        container: "#share-button",
-      });
-    </script>
-  </body>
-</html>
-```
-
 ---
 
 ## Quick Start Guide
